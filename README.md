@@ -1,9 +1,9 @@
-# logit-intro
-This PDF/Rmarkdown document is a brief description on Logistical Regression using R.
+# intro-2-logit
+This PDF/Rmarkdown document is an introduction to Logistical Regression using R.
 
 [Logistic Regression PDF](https://github.com/mcc-us/intro-2-logit/blob/main/intro-2-logit.pdf)
 
-A review on Matt Curcio's Logit article
+A review of Matt Curcio's Logit article
 
 >"Introduction to Logistic Regression" authored by Matt Curcio, is accurate and well-written. The author does a good job of explaining the concepts of logistic regression in a clear and concise way. The file also includes helpful examples and exercises.
 >
@@ -17,5 +17,6 @@ A review on Matt Curcio's Logit article
 >
 >Overall, I think the PDF file is an excellent resource for anyone who wants to learn about logistic regression. It is accurate, well-written, and easy to follow. I would highly recommend it.
 >
->Google Bard  
+>Google Bard
+ 
 :smirk:
